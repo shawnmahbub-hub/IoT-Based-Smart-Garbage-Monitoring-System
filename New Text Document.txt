@@ -1,0 +1,8 @@
+TOTOLINK_N200RE
+Sharoyawn10661220172
+
+Blynk.email("md.mahbub.rahman.shwon@g.bracu.ac.bd","Garbage Alert!!!","Emergency!You must need to collect the garbage.");
+Blynk.email("md.mahbub.rahman.shwon@g.bracu.ac.bd","Garbage Alert!!!","Garbage bin is filled up by 20%.");
+Blynk.email("md.mahbub.rahman.shwon@g.bracu.ac.bd","Garbage Alert!!!","Garbage is filed up by 1/3 portion, would you like to collect?");
+Blynk.email("md.mahbub.rahman.shwon@g.bracu.ac.bd","Garbage Alert!!!","It is high time to collect the garbage.");
+Blynk.email("md.mahbub.rahman.shwon@g.bracu.ac.bd","Garbage Alert!!!","You must need to collect the garbage.");
